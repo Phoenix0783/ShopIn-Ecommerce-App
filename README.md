@@ -1,6 +1,7 @@
 # E-commerce apparel shopping app UI (ShopIn)
 
-![Ecommerce banner](https://github.com/Phoenix0783/E-commerce-app-UI---Flutter/assets/56187745/0fcb77ea-2bcb-40d8-aa3c-a29a1e030fc1)
+![Ecommerce banner](https://github.com/Phoenix0783/ShopIn-Ecommerce-app-/assets/56187745/cb6fa7c4-ec8f-41c2-af9c-9a27e5d9a421)
+
 
 ## 1. About ShopIn
 
